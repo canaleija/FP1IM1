@@ -7,7 +7,7 @@ int main()
     double x,y,z;
 
     x=2.0;
-    y=3.0;
+    y=5.0;
     z=pow(x,y);
 
 
