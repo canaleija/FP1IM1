@@ -1,0 +1,9 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/mondo/Library/CloudStorage/OneDrive-InstitutoPolitecnicoNacional/Académico IPN/Semestre 25-1/Fundamentos de programación 1IM1/FP1IM1/funciones/output/funcion1"
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003E94, symSize: 0xA4 }
+  - { offsetInCU: 0x41, offset: 0x41, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003E94, symSize: 0xA4 }
+  - { offsetInCU: 0x69, offset: 0x69, size: 0x8, addend: 0x0, symName: _calcula_promedio, symObjAddr: 0xA4, symBinAddr: 0x100003F38, symSize: 0x34 }
+  - { offsetInCU: 0xAD, offset: 0xAD, size: 0x8, addend: 0x0, symName: _saludar, symObjAddr: 0xD8, symBinAddr: 0x100003F6C, symSize: 0x1C }
+...

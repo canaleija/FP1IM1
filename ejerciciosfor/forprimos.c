@@ -2,10 +2,7 @@
 
 int main()
 {
-
-
-    
-    int z;
+   int z;
     for(z=1;z<=100;z++){
     int x = z, i;
     int cd = 0;
