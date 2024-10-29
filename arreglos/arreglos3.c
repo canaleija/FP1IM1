@@ -17,19 +17,15 @@ int main()
     for(x=0; x<10;x++){
         printf("%d,",arreglo[x]);
     }
-
-
     return 0;
 }
 
 
 void modificarArreglo(int arreglo[], int tam){
-
     int x;
     for(x=0; x<tam;x++){
         arreglo[x] = arreglo[x]*3;
     }
-
 }
 
 void ordenarArreglo(int arreglo[], int tam){
