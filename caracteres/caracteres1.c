@@ -12,9 +12,12 @@ int main()
     }*/
     char s = '@';
     int res = s+10;
-    printf("%c",res);
+    //printf("%c",res);
 
+    char aux [5]={'w','e','r','t','\0'};
 
+    char color [] = "Rojo";
+    printf("%c", color[2]);
    
     return 0;
 }
