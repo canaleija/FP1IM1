@@ -4,11 +4,9 @@
 int main()
 {
     int y = 12;
-    int x = 80;
+    int x = 80 * y ;
     int *aux = &x;
     
-    
-
-    printf("%p\n",aux);
+    printf("%d hollaaaaaaaa\n",x);
     return 0;
 }
